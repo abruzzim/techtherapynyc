@@ -14,7 +14,7 @@ section.main-message {
 }
 
 .jumbotron {
-  background: url(../img/bg1.jpg) no-repeat top center;
+  background: url(../img/bg1.png) no-repeat top center;
   height: 420px;
 }
 
@@ -45,3 +45,10 @@ img.digitallife {
   padding: 3px;
   border: 1px solid #ccc;
 }
+
+/*section#feature {
+  background-color: #eb9316;
+  color: #fff;
+  padding: 40px;
+  overflow: auto;
+}*/
