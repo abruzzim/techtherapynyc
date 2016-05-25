@@ -1,24 +1,47 @@
 
 
 /* ==========================================================================
-   Author's custom styles
+   Custom styles
    ========================================================================== */
 
-.freud {
-  width:100%;
-  max-width: 200px;
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
 }
 
-.digitallife {
+section.main-message {
+  padding: 40px 0 40px 0;
+}
+
+.jumbotron {
+  background: url(../img/bg1.jpg) no-repeat top center;
+  height: 420px;
+}
+
+img.freud {
+  width:100%;
+  max-width: 200px;
+  padding: 3px;
+  border: 1px solid #ccc;
+}
+
+img.digitallife {
   width: 100%;
+  max-width: 310px;
+  padding: 3px;
+  border: 1px solid #ccc;
 }
 
 .demystify {
   width: 100%;
   max-width: 310px;
+  padding: 3px;
+  border: 1px solid #ccc;
 }
 
 .taming {
   width: 100%;
   max-width: 310px;
+  padding: 3px;
+  border: 1px solid #ccc;
 }
