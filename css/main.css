@@ -4,19 +4,21 @@
    Author's custom styles
    ========================================================================== */
 
+.freud {
+  width:100%;
+  max-width: 200px;
+}
 
+.digitallife {
+  width: 100%;
+}
 
+.demystify {
+  width: 100%;
+  max-width: 310px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.taming {
+  width: 100%;
+  max-width: 310px;
+}
