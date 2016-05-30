@@ -1,7 +1,7 @@
 
 
 /* ==========================================================================
-   Custom styles
+                              Custom styles
    ========================================================================== */
 
 body {
@@ -15,7 +15,6 @@ section.main-message {
 
 .jumbotron {
   background: url(../img/bg1.png) no-repeat top center;
-  height: 420px;
 }
 
 img.freud {
@@ -77,4 +76,31 @@ footer li {
 
 footer a {
   color: #fff;
+}
+
+/* Media Query */
+
+
+@media(max-width: 767px) {
+  .em-text {
+    color: #5F2AB2 !important;
+  }
+}
+
+@media(min-width: 768px) and (max-width: 990px) {
+  .em-text {
+    color: #FFA130 !important;
+  }
+}
+
+@media(min-width: 991px) and (max-width: 1200px) {
+  .em-text {
+    color: #38B252 !important;
+  }
+}
+
+@media(min-width: 1200px) {
+  .em-text {
+    color: #227F5E !important;
+  }
 }
