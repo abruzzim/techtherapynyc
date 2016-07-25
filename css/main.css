@@ -81,25 +81,25 @@ footer a {
 /* Media Query */
 
 
-@media(max-width: 767px) {
+@media(max-width: 414px) {
   .em-text {
-    color: #5F2AB2 !important;
+    color: #FF0000 !important;
   }
 }
 
-@media(min-width: 768px) and (max-width: 990px) {
+@media(min-width: 415px) and (max-width: 1024px) {
   .em-text {
     color: #FFA130 !important;
   }
 }
 
-@media(min-width: 991px) and (max-width: 1200px) {
+@media(min-width: 1025px) and (max-width: 1365px) {
   .em-text {
     color: #38B252 !important;
   }
 }
 
-@media(min-width: 1200px) {
+@media(min-width: 1366px) {
   .em-text {
     color: #227F5E !important;
   }
